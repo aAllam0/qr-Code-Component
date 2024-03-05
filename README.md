@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/simple-qr-code-component-NlCwK4Op7i)
+- Live Site URL: (https://aallam0.github.io/qr-Code-Component)
 
 ### Useful resources
 
@@ -14,4 +14,4 @@
 ### Author
 
 - Frontend Mentor - [@aAllam0](https://www.frontendmentor.io/profile/aAllam0)
-- Gmail - [Abdullah Allam](abdullahshallam@gmail.com)
+- Gmail - [abdullahshallam@gmail.com]
