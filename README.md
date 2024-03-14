@@ -1,4 +1,4 @@
-# Frontend Mentor - Page name
+# Frontend Mentor - qr Code Component Page
 
 ![](images/qr-code.png)
 
